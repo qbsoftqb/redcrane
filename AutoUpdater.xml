@@ -2,5 +2,5 @@
 <item>
     <version>2.0.0.0</version>
     <url>https://raw.githubusercontent.com/qbsoftqb/redcrane/main/AutoUpdater.zip</url>
-    <changelog>https://github.com/qbsoftqb/redcrane/blob/main/README.md</changelog>
+    <changelog>https://raw.githubusercontent.com/qbsoftqb/redcrane/main/README.md</changelog>
 </item>
