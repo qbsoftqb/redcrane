@@ -1,3 +1,5 @@
+#2023-08-02
+-Update notice VAT
 # 2021-10-04
 -Update barcode reader.
 -Modifier Report Yearly.
